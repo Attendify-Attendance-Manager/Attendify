@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "120190116536",
+    "project_id": "attendify-ce0a8",
+    "storage_bucket": "attendify-ce0a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120190116536:android:6b38a0177486edfb6b8a4d",
+        "android_client_info": {
+          "package_name": "com.example.attendify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120190116536-t3ocp408r9cbk7fe5gd7d6us4tc2m2g7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.attendify",
+            "certificate_hash": "f9e3dc6aefbcc719be151e572c820b91dba0083a"
+          }
+        },
+        {
+          "client_id": "120190116536-jf53s81rj8pv8j8h6cpamfu3phq3h5np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiPKDwd6SgDWBinNjvNQte_4f72lptU9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120190116536-jf53s81rj8pv8j8h6cpamfu3phq3h5np.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

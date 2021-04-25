@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Attendify</string>
+    <string name="present">Your Attendance Is Marked.</string>
+</resources>
