@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
             }
             @Override
             public void onFinish() {
-                startActivity(new Intent(MainActivity.this, OTPotpverify.class));
+                startActivity(new Intent(MainActivity.this, LoginActivity.class));
                 finish();
             }
         }.start();
